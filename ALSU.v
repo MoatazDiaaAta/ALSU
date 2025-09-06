@@ -132,4 +132,3 @@ end
 
 
 endmodule //ALSU
-// github.com/antonio-mat/Verilog-ALSU
